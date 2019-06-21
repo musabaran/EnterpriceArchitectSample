@@ -1,0 +1,27 @@
+﻿<#@ assembly name="System.Data"#>  
+<#@ import namespace="System.Data.SqlClient" #>  
+
+
+using System;
+
+
+
+public class Hede
+{
+
+	public void X()
+	{
+		<#
+
+		
+		 for(int i =0 ; i < 10; ++i)
+		 {
+		#>
+			Console.WriteLine(<#=i#>);
+
+
+		<#}#>
+
+
+	}
+}

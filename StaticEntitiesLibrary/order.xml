@@ -1,0 +1,10 @@
+﻿<Entity Name="Order" SoftDelete="true"  AuditLog="OrderA">
+  <Columns>
+    <Column Name="Id" Size="4" Type="INT"  ML="false" IsNull="false" AutoInc="true" IsPrimary="true"></Column>
+    <Column Name="Code"  Size ="50" Type="STR" ML="true" IsNull="true" AutoInc="false" IsPrimary="false"></Column>
+    <Column Name="Price" Size="4" Type="INT" ML="false" IsNull="true" AutoInc="false" IsPrimary="false"></Column>
+  </Columns>
+  <!--<ForeignKeys>
+    <FK id
+  </ForeignKeys>-->
+</Entity>

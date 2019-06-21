@@ -1,0 +1,13 @@
+https://channel9.msdn.com/Series/DynamicsCRM2011/Web-Services-Entity-Class--Querying
+
+http://dept-info.labri.u-bordeaux.fr/~strandh/Teaching/MTP/Common/Strandh-Tutorial/top-down-programming.html
+
+https://cirillocompany.de/pages/anti-if-campaign
+
+https://en.wikipedia.org/wiki/Convention_over_configuration
+
+https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454/ref=sr_1_1?ie=UTF8&qid=1510498120&sr=8-1&keywords=clr+via+c%23
+
+https://stackoverflow.com/users/22656/jon-skeet
+
+https://blogs.msdn.microsoft.com/tess/tag/debugging-labs/page/3/
